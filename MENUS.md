@@ -11,4 +11,4 @@ Claude asks these as clickable multiple-choice questions (in Claude Code and cla
 | 4 | Quality (new in v0.5): Draft free, Standard, High, Premium | ![](menus/menu4.png) |
 | 5 | Ending: who does what, by when | ![](menus/menu5.png) |
 
-The pictures are faithful mock-ups of the real menu, filled with the answers Tim gave for the Master Jovi film.
+The pictures are faithful mock-ups of the real menu, filled with the answers Tim gave for the Master Jove film.

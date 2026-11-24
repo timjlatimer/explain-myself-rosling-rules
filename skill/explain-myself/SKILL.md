@@ -11,9 +11,9 @@ No size given: ask, and recommend 3. Most messages need a 3 or a 5.
 ## What's new in v0.5 (24 Nov 2026, for Fidel to review and polish)
 - Rule 50: a fifth menu asks for **quality** (Draft, Standard, High, Premium), so nobody gets a flat film by surprise.
 - Rule 51: **library first**. Check the shared media library before generating anything; add what you make afterwards.
-- Rule 52: a **cast bible** keeps recurring people the same in every film (Freya, Master Jovi, Sam, Ruby Red).
+- Rule 52: a **cast bible** keeps recurring people the same in every film (Freya, Master Jove, Sam, Ruby Red).
 - Rule 53: **plain-English scripts**, written the way aerospace manuals are (ASD-STE100 style): short sentences, one idea each, common words, active voice.
-- Rule 54: **real people and roles**. Never invent a real person's face. A role such as Master Jovi may be shown with a character-concept face, labelled as a concept. Get pronouns right.
+- Rule 54: **real people and roles**. Never invent a real person's face. A role such as Master Jove may be shown with a character-concept face, labelled as a concept. Get pronouns right.
 - Rule 55: **show the menus**. When a film explains the skill, show pictures of the menus and how to answer them.
 
 ## The idea in one breath
@@ -53,7 +53,7 @@ Always ask for quality in the menus. Free is the default; a paid level counts as
 | Standard | Photoreal stills with camera moves, real lip-sync on talking faces | Wan 2.7 lip-sync | about 1.5 credits a second of talking |
 | High | Every picture becomes a short moving shot, plus lip-sync | Kling 3.0 standard (silent) for motion, Wan 2.7 lip-sync | about 1.5 credits a second of film overall |
 | Premium | High, plus presenters who move and gesture while they talk | Grok Video 1.5 with our voice as audio reference, or Intone for a final cut | about 4.5 to 7 credits a second of talking |
-Example: the High-quality Master Jovi (about 5 min) and "What the explainer is" (about 7 min) films used about 750 credits together.
+Example: the High-quality Master Jove (about 5 min) and "What the explainer is" (about 7 min) films used about 750 credits together.
 
 ## Draft first, cheapest lip-sync (rule 48, Tim, 24 Nov 2026)
 Every film starts as a draft. In draft mode, lip-sync uses the cheapest option that moves the lips at all; it may be well off. Order today: Claude's own lip-sync (free), then Wan 2.7 on Higgsfield (about 1.5 credits a second, 720p, clips up to 15 s, lines grouped). Polished lip-sync (Higgsfield Intone, about 7 credits a second at 720p) only when the 1NTC asks for a final cut. Paid services stay off unless the person has named them (rule 43). Review this list whenever a free or near-free lip-sync service appears.
@@ -89,7 +89,7 @@ Everything else: infer, and list your assumptions on the page under the film.
 
 ## Library first and the cast bible (rules 51 and 52)
 - Before generating, look in the shared media library (library/catalogue.json in the repo, media in the shared OneDrive "Rosling Media Library"). Reuse a picture, motion shot, voice or lip-sync clip when it fits.
-- Recurring people come from the cast bible so they look the same everywhere: Freya (AI helper), Master Jovi (a role; character-concept face from the Proposal Land film), Sam (a customer), Ruby Red (who we solve for). Use their reference image as an image reference when you generate new shots.
+- Recurring people come from the cast bible so they look the same everywhere: Freya (AI helper), Master Jove (a role; character-concept face from the Proposal Land film), Sam (a customer), Ruby Red (who we solve for). Use their reference image as an image reference when you generate new shots.
 - After the film, add every new asset to the catalogue: who is in it, what it shows, size, quality, cost, stand-in yes/no, consent yes/no, link.
 - Real people only with their consent and their real photos.
 

@@ -18,8 +18,8 @@
    "label": "Freya is an AI assistant"
   },
   {
-   "id": "master-jovi",
-   "name": "Master Jovi (publicly: Mr. Proposal Man)",
+   "id": "master-jove",
+   "name": "Master Jove (publicly: Mr. Proposal Man)",
    "role": "A Proposal Land role that trained people can play; today Casey plays it",
    "kind": "character concept (from the Proposal Land five-minute film)",
    "real_person": false,
@@ -33,7 +33,8 @@
     "library/cast/jwalk.jpg"
    ],
    "voice": "Kokoro bm_george, speed 0.95",
-   "label": "Jovi is a role; this face is a character concept"
+   "label": "Jove is a role; this face is a character concept",
+   "spelling": "Jove (said JO-vee). The Proposal Land five-minute film spells it Jovy; use Jove."
   },
   {
    "id": "sam",
@@ -62,7 +63,7 @@
  "films": [
   {
    "id": "master-jovi-v2",
-   "title": "Master Jovi: a first-time customer's journey",
+   "title": "Master Jove: a first-time customer's journey",
    "size": 7,
    "quality": "High",
    "length_s": 280,
@@ -72,7 +73,7 @@
     "1ntc": "Murphy",
     "ending": "Casey verifies his email by Wed 25 Nov"
    },
-   "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3It1NTIzZ2fajgEonB2AdHxDLvF/ea84ff92-696f-47dc-970f-ad79a5cd98ec.mp4"
+   "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3It1NTIzZ2fajgEonB2AdHxDLvF/d8a95e9e-2bc4-42bd-a49c-769393e79aee.mp4"
   },
   {
    "id": "what-the-explainer-is",
@@ -84,7 +85,7 @@
     "1ntc": "Fidel",
     "ending": "Fidel reviews, polishes, folds into skill v0.5; everyone makes a size-1 film by Mon 30 Nov"
    },
-   "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3It1NTIzZ2fajgEonB2AdHxDLvF/a89faa25-0e9d-42eb-ae14-046918436b3a.mp4"
+   "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3It1NTIzZ2fajgEonB2AdHxDLvF/e3428b3b-a274-46ab-835f-6f40ef30a51e.mp4"
   }
  ],
  "assets": [

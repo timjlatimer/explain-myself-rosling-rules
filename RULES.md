@@ -36,7 +36,7 @@ The full wording of rules 1–34 is on the v0.3 Rules page. If it isn't in this 
 ## New in v0.5 (24 Nov 2026), for Fidel's review
 - **50 Quality is a menu.** Menu 4 asks: Draft (free, default) · Standard · High · Premium. Nobody gets a flat film by surprise.
 - **51 Library first.** Check the shared media library before generating anything. Add what you make afterwards.
-- **52 Cast bible.** Recurring people (Freya, Master Jovi, Sam, Ruby Red) look the same in every film. Use their reference image when you generate.
+- **52 Cast bible.** Recurring people (Freya, Master Jove, Sam, Ruby Red) look the same in every film. Use their reference image when you generate.
 - **53 Plain-English scripts.** Write like an aircraft maintenance manual (ASD-STE100 style): short sentences, one idea each, common words, active voice.
-- **54 Real people and roles.** Never invent a real person's face. A role (Master Jovi) may use a labelled character-concept face. Get pronouns right.
+- **54 Real people and roles.** Never invent a real person's face. A role (Master Jove) may use a labelled character-concept face. Get pronouns right.
 - **55 Show the menus.** When explaining the skill itself, show pictures of the menus and how to answer them.
