@@ -1,0 +1,184 @@
+{
+ "version": "0.5-draft",
+ "updated": "2026-11-24",
+ "cast": [
+  {
+   "id": "freya",
+   "name": "Freya",
+   "role": "AI helper and host",
+   "kind": "generated character",
+   "real_person": false,
+   "pronouns": "she/her",
+   "refs": [
+    "library/cast/freya.jpg",
+    "library/cast/f2studio.jpg",
+    "library/cast/f2desk.jpg"
+   ],
+   "voice": "Kokoro af_bella, speed 0.9",
+   "label": "Freya is an AI assistant"
+  },
+  {
+   "id": "master-jovi",
+   "name": "Master Jovi (publicly: Mr. Proposal Man)",
+   "role": "A Proposal Land role that trained people can play; today Casey plays it",
+   "kind": "character concept (from the Proposal Land five-minute film)",
+   "real_person": false,
+   "look": "grey flat cap, short greying beard, tweed waistcoat and tie, dark wool overcoat, charcoal scarf, brown leather-bound keepsake book",
+   "refs": [
+    "library/cast/jovi_cafe_ref.jpg",
+    "library/cast/jlake.jpg",
+    "library/cast/jcafe.jpg",
+    "library/cast/jsam.jpg",
+    "library/cast/jwrite.jpg",
+    "library/cast/jwalk.jpg"
+   ],
+   "voice": "Kokoro bm_george, speed 0.95",
+   "label": "Jovi is a role; this face is a character concept"
+  },
+  {
+   "id": "sam",
+   "name": "Sam",
+   "role": "A first-time customer who wants to propose",
+   "kind": "generated character",
+   "real_person": false,
+   "refs": [
+    "library/cast/samc.jpg"
+   ],
+   "voice": "Kokoro am_adam"
+  },
+  {
+   "id": "ruby-red",
+   "name": "Ruby Red",
+   "role": "Who we solve for: 35-45, CFO of her household, working poor",
+   "kind": "generated persona",
+   "real_person": false,
+   "pronouns": "she/her",
+   "refs": [
+    "library/cast/ruby.jpg"
+   ],
+   "label": "generated persona"
+  }
+ ],
+ "films": [
+  {
+   "id": "master-jovi-v2",
+   "title": "Master Jovi: a first-time customer's journey",
+   "size": 7,
+   "quality": "High",
+   "length_s": 280,
+   "menus": {
+    "topic": "first-time customer",
+    "north_star": "every inquiry gets a fast, warm answer",
+    "1ntc": "Murphy",
+    "ending": "Casey verifies his email by Wed 25 Nov"
+   },
+   "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3It1NTIzZ2fajgEonB2AdHxDLvF/ea84ff92-696f-47dc-970f-ad79a5cd98ec.mp4"
+  },
+  {
+   "id": "what-the-explainer-is",
+   "title": "What the explainer is: Explain Myself with Rosling Rules",
+   "size": 7,
+   "quality": "High",
+   "length_s": 412,
+   "menus": {
+    "1ntc": "Fidel",
+    "ending": "Fidel reviews, polishes, folds into skill v0.5; everyone makes a size-1 film by Mon 30 Nov"
+   },
+   "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3It1NTIzZ2fajgEonB2AdHxDLvF/a89faa25-0e9d-42eb-ae14-046918436b3a.mp4"
+  }
+ ],
+ "assets": [
+  {
+   "id": "pl_frost",
+   "what": "Winter proposal on Wabamun Lake, frost",
+   "source": "Proposal Land five-minute film (concept)",
+   "stand_in": true,
+   "motion_shot": true
+  },
+  {
+   "id": "pl_lantern",
+   "what": "Lantern path at blue hour",
+   "source": "Proposal Land film (concept, not built)",
+   "stand_in": true,
+   "motion_shot": true
+  },
+  {
+   "id": "pl_tunnel",
+   "what": "Willow tunnel in summer",
+   "source": "Proposal Land film (concept, not built)",
+   "stand_in": true,
+   "motion_shot": true
+  },
+  {
+   "id": "pl_ice",
+   "what": "Ice chapel wedding",
+   "source": "Proposal Land film (concept, not built)",
+   "stand_in": true,
+   "motion_shot": true
+  },
+  {
+   "id": "pl_icenight",
+   "what": "Ice chapel at night",
+   "source": "Proposal Land film (concept, not built)",
+   "stand_in": true,
+   "motion_shot": true
+  },
+  {
+   "id": "pl_rebar",
+   "what": "The Rebar Chapel",
+   "source": "Proposal Land film (concept, not built)",
+   "stand_in": true,
+   "motion_shot": true
+  },
+  {
+   "id": "pl_golden",
+   "what": "Golden hour nave",
+   "source": "Proposal Land film (concept, not built)",
+   "stand_in": true,
+   "motion_shot": true
+  },
+  {
+   "id": "overlook",
+   "what": "Wabamun Lake overlook",
+   "source": "real photo, proposalland.love",
+   "stand_in": false,
+   "motion_shot": true
+  },
+  {
+   "id": "realodge",
+   "what": "The Forest Lodge, Seba Beach",
+   "source": "real photo, proposalland.love",
+   "stand_in": false,
+   "motion_shot": true
+  },
+  {
+   "id": "f2library",
+   "what": "Media library hall",
+   "source": "generated",
+   "stand_in": true,
+   "motion_shot": true
+  },
+  {
+   "id": "f2team",
+   "what": "Team watching a film",
+   "source": "generated",
+   "stand_in": true,
+   "motion_shot": true
+  },
+  {
+   "id": "kitchen",
+   "what": "Phone at the kitchen table at night",
+   "source": "generated",
+   "stand_in": true,
+   "motion_shot": true
+  },
+  {
+   "id": "rain",
+   "what": "Rain on the lake",
+   "source": "generated",
+   "stand_in": true,
+   "motion_shot": true
+  }
+ ],
+ "how_to_use": "Check here before generating. Reuse a cast reference as an image reference so people stay the same. Add every new asset after each film."
+}
